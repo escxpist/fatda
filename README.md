@@ -1,2 +1,1 @@
-Name: Tymofii Pohodaiev
-Group: KM-43
+Tymofii Pohodaiev KM-43
